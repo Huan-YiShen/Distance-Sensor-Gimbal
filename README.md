@@ -19,6 +19,7 @@ Gimbal automatically scan 180 deg. The motor will stop for a few seconds if it d
 - When Gimbal detects an object, it will attempt to find it's center, points to it, flash the laser 3 times, then proceed to continue moving
 - when the Gimbal is scanning, LED is GREEN, when it detects something, LED becomes RED, when it finishes scanning, LED turns BLUE
 - Upon system reset, the Gimbal will start executing the Mode 1 subroutine
+
  
 **Mode 2: Manual Mode**
 
@@ -32,3 +33,13 @@ Gimbal can be controlled by the joystick, 4 directions of movement. system in mo
 4. Press the blue button on the PCB to turn the system to Mode2 (manual mode). Now you can move the Gimbal with the joy stick!
 
 Note: You can press the the blue button at any time to go to Mode 2, press the black button to reset (which start to Mode 1 subroutine) 
+
+# Demo
+Automatic Mode
+
+https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32
+
+Manual Mode
+
+https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af
+
