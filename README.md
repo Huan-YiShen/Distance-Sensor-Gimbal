@@ -13,20 +13,20 @@ Note: this is a part of a school project and the code developed to control the M
 - 1 LED to indicate state change
 
 ## Two modes of operation
-##### Mode 1: Automatic Mode
+### Mode 1: Automatic Mode
 
 Gimbal automatically scan 180 deg. The motor will stop for a few seconds if it detect an object in front of it, and then continue moving. Once Gimbal finish scanning, the LED on the breadboard will turn blue and the system stops moving.
 - When Gimbal detects an object, it will attempt to find it's center, points to it, flash the laser 3 times, then proceed to continue moving
 - when the Gimbal is scanning, LED is GREEN, when it detects something, LED becomes RED, when it finishes scanning, LED turns BLUE
 - Upon system reset, the Gimbal will start executing the Mode 1 subroutine
 
-[Automatic Mode DEMO](#Automatic-Mode-Demo)
+[Automatic Mode DEMO](#automatic-mode-demo)
  
-##### Mode 2: Manual Mode
+### Mode 2: Manual Mode
 
 Gimbal can be controlled by the joystick, 4 directions of movement. system in mode 2 if the LED on the bread board starts to switch color between RGB.
 
-[Manual Mmode DEMO](#Manual-Mode-Demo)
+[Manual Mode DEMO](#manual-mode-demo)
 
 
 # Gimbal operation instruction
@@ -39,10 +39,10 @@ Note: You can press the the blue button at any time to go to Mode 2, press the b
 
 # Demo
 
-##### Automatic Mode Demo
+### Automatic Mode Demo
 
  https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32
 
-##### Manual Mode Demo
+### Manual Mode Demo
 
 https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af
