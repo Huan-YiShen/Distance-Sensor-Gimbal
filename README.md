@@ -20,10 +20,13 @@ Gimbal automatically scan 180 deg. The motor will stop for a few seconds if it d
 - when the Gimbal is scanning, LED is GREEN, when it detects something, LED becomes RED, when it finishes scanning, LED turns BLUE
 - Upon system reset, the Gimbal will start executing the Mode 1 subroutine
 
+[automatic mode DEMO](https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af)
  
 **Mode 2: Manual Mode**
 
 Gimbal can be controlled by the joystick, 4 directions of movement. system in mode 2 if the LED on the bread board starts to switch color between RGB.
+
+[manual mode DEMO](https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af)
 
 
 # Gimbal operation instruction
@@ -35,13 +38,11 @@ Gimbal can be controlled by the joystick, 4 directions of movement. system in mo
 Note: You can press the the blue button at any time to go to Mode 2, press the black button to reset (which start to Mode 1 subroutine) 
 
 # Demo
-Manual Mode
-
-https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af |
 
 Automatic Mode
 
- https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32 | 
+ https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32
 
+Manual Mode
 
-
+https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af
