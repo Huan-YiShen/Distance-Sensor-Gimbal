@@ -35,11 +35,13 @@ Gimbal can be controlled by the joystick, 4 directions of movement. system in mo
 Note: You can press the the blue button at any time to go to Mode 2, press the black button to reset (which start to Mode 1 subroutine) 
 
 # Demo
-| Automatic Mode | Manual Mode |
-| ----------- | ----------- |
-| https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32 | https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af |
+Manual Mode
 
+https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/d01c165f-cba9-4887-aed6-087987f7e8af |
 
+Automatic Mode
+
+ https://github.com/Huan-YiShen/Distance-Sensor-Gimbal/assets/76965211/90812e05-ba04-4eaa-a7f9-0dd3ac12ba32 | 
 
 
 
